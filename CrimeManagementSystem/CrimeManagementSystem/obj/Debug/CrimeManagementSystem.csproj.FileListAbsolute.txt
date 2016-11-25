@@ -1,0 +1,12 @@
+c:\users\sirriddle\documents\visual studio 2015\Projects\CrimeManagementSystem\CrimeManagementSystem\bin\Debug\CrimeManagementSystem.exe.config
+C:\Users\SirRiddle\Documents\Visual Studio 2015\Projects\CrimeManagementSystem\CrimeManagementSystem\bin\Debug\CrimeManagementSystem.exe
+C:\Users\SirRiddle\Documents\Visual Studio 2015\Projects\CrimeManagementSystem\CrimeManagementSystem\bin\Debug\CrimeManagementSystem.pdb
+C:\Users\SirRiddle\Documents\Visual Studio 2015\Projects\CrimeManagementSystem\CrimeManagementSystem\obj\Debug\CrimeManagementSystem.csprojResolveAssemblyReference.cache
+C:\Users\SirRiddle\Documents\Visual Studio 2015\Projects\CrimeManagementSystem\CrimeManagementSystem\obj\Debug\CrimeManagementSystem.Form1.resources
+C:\Users\SirRiddle\Documents\Visual Studio 2015\Projects\CrimeManagementSystem\CrimeManagementSystem\obj\Debug\CrimeManagementSystem.Properties.Resources.resources
+C:\Users\SirRiddle\Documents\Visual Studio 2015\Projects\CrimeManagementSystem\CrimeManagementSystem\obj\Debug\CrimeManagementSystem.csproj.GenerateResource.Cache
+C:\Users\SirRiddle\Documents\Visual Studio 2015\Projects\CrimeManagementSystem\CrimeManagementSystem\obj\Debug\CrimeManagementSystem.exe
+C:\Users\SirRiddle\Documents\Visual Studio 2015\Projects\CrimeManagementSystem\CrimeManagementSystem\obj\Debug\CrimeManagementSystem.pdb
+C:\Users\SirRiddle\documents\visual studio 2015\Projects\CrimeManagementSystem\CrimeManagementSystem\obj\Debug\CrimeManagementSystem.Main.resources
+C:\Users\SirRiddle\documents\visual studio 2015\Projects\CrimeManagementSystem\CrimeManagementSystem\obj\Debug\CrimeManagementSystem.Main2.resources
+C:\Users\SirRiddle\documents\visual studio 2015\Projects\CrimeManagementSystem\CrimeManagementSystem\obj\Debug\CrimeManagementSystem.Main3.resources
